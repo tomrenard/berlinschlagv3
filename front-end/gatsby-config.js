@@ -6,7 +6,7 @@ export default {
   siteMetadata: {
     title: `Berlin Schlag`,
     siteUrl: 'https://www.berlinschlag.com',
-    description: 'Berliner Media',
+    description: 'Berliner Cultural Media',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
